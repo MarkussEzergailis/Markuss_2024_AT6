@@ -1,0 +1,4 @@
+User input validator:
+1. You are requried to instatiate via creating a variable. 
+2. When creating the variable you inser the list that you wanted to instatiate
+3. the same variable needs to call methood "validate_positive_integers"
